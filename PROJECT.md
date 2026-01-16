@@ -4,6 +4,8 @@ Behavioral overlay for an AI coding agent. Project-specific commands, stack,
 architecture, and the verification setup (test runner, linters, hooks) live
 elsewhere and take precedence where they conflict.
 
+**Always:** Never read, print, or log `.env` or other files containing secrets/credentials.
+
 **Tradeoff:** These bias toward caution over speed. For trivial tasks, use judgment.
 
 ## 1. Think Before Coding
