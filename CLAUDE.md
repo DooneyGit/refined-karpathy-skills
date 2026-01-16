@@ -1,8 +1,6 @@
 # Coding Guidelines
 
-Behavioral overlay for an AI coding agent. Project-specific commands, stack,
-architecture, and the verification setup (test runner, linters, hooks) live
-elsewhere and take precedence where they conflict.
+Behavioral overlay for an AI coding agent.
 
 **Tradeoff:** These bias toward caution over speed. For trivial tasks, use judgment.
 

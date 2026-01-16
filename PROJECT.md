@@ -1,12 +1,8 @@
----
-name: refined-karpathy-guidelines
-description: Behavioral guidelines to reduce common LLM coding mistakes. Use when writing, reviewing, or refactoring code to avoid overcomplication, make surgical changes, surface assumptions, and define verifiable success criteria.
-license: MIT
----
-
 # Coding Guidelines
 
-Behavioral overlay for an AI coding agent.
+Behavioral overlay for an AI coding agent. Project-specific commands, stack,
+architecture, and the verification setup (test runner, linters, hooks) live
+elsewhere and take precedence where they conflict.
 
 **Tradeoff:** These bias toward caution over speed. For trivial tasks, use judgment.
 
